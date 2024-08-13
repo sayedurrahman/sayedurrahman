@@ -1,13 +1,12 @@
 # Sayedur Rahman
 
-**20+ Successful Projects | 12+ Years Experience | Tech-Lead (Dot Net) 4 Years | ITEE Full Passer | Software Architect | Active Developer | Code Warrior Champion**
+**20+ Successful Projects | 12+ Years Experience | 4 Years Tech-Lead (Dot Net) | Software Architect | Active Developer | ITEE Full Passer | Code Warrior Champion**
 
-[LinkedIn](https://linkedin.com/in/sayedur-rahman) | [GitHub](https://github.com/sayedurrahman) | [LeetCode](https://leetcode.com/user1401LF/)  
-📧 sayedur.rahmans@gmail.com  
-💬 Telegram: sayedur.rahman5  
-📞 (+88)01788594343
+[LinkedIn](https://linkedin.com/in/sayedur-rahman) | [GitHub](https://github.com/sayedurrahman) | [LeetCode](https://leetcode.com/user1401LF/) | 📧 sayedur.rahmans@gmail.com | 💬 Telegram: sayedur.rahman5 | 📞 (+88)01788594343
 
 ---
+![Skype Logo](https://secure.skypeassets.com/content/dam/scom/legal/brand-guidelines/skype-icon.svg)
+
 
 ### Summary
 With 12+ years of experience, I can channel a situation into a solution. As an architect, I can design software to resolve real problems. As a tech lead, I can guide a team through both good and challenging times. As a software engineer, I can develop top-notch software and deliver exceptional results. My "Positive", "Can do" attitude and adaptability keep me moving forward.
