@@ -183,7 +183,7 @@ Europe.
 - **InterPersonality | Simplexhub | Software Engineer**  
   *InterPersonality, Australia | Jun 2009 - Nov 2009*
   InterPersonality is about Psychological-Type in particular, making Psyche-type readily available to the masses thus providing a platform to recognize the diverse range of intelligences each of us possesses.
-  - ASP.NET Framework 3.5, VS 2008, MSSQL 2005, Sitefinity CMS, Subsonic 2.2 ORM, Product Gallery.
+  (Images/Icons/IP-tech.jpg)
 
 
 <!--
