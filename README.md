@@ -136,32 +136,31 @@ With 12+ years of experience, I can channel a situation into a solution. As an a
 
   Online Store of Property Inspection Reports. Report customization with purchaser info. NAB payment gateway and eWAY payment gateway.
   [Rentokil](http://www.pi.rentokil.com.au/)  
-  - ASP.NET MVC 3, VS 2010, MSSQL Server 2005, NopCommerce 2.50, E-Commerce, Payment Gateway.
+  <img src="/Images/Icons/Rentokill.png"></img>
 
 - **My Personal Database (MYPD) (Australia) | Simplexhub | Senior Software Engineer | Oct 2011 - Oct 2012**  
 
   Critical Information Service, ICE Information Service. MYPD.com is the world’s first critical information register.
-https://www.youtube.com/watch?v=hoFdFJfKqpc
   [MYPD Demo](https://www.youtube.com/watch?v=hoFdFJfKqpc)  
-  - ASP.NET MVC, VS 2010, MSSQL Server 2005, DI, Critical Information Service, ICE Information Service.
+  <img src="/Images/Icons/MYPD.png"></img>
 
 - **[Tomkin](http://www.tomkin.com.au/) (Australia) | Simplexhub | Senior Software Engineer | Apr 2011 - Oct 2011**  
 
   Tomkin Australia has the most comprehensive and stylish range of cookware, kitchenware, tableware, barware, glassware and porcelain available in Australia for both domestic and commercial use. Tomkin Australia products are available for purchase at most major retailers, kitchenware stores, gift shops, hotel & restaurant wholesalers.
   
-  <img src="/Images/Icons/Tomkin _ Home - Copy.jpg"></img>
+  <img src="/Images/Icons/Tomkin _ Home - Copy.jpg"  height="100"></img>
 
 - **Eclipse Whole Foods (Australia) | Simplexhub | Senior Software Engineer | Jan 2011 - May 2011**  
 
   This is the ecommerce site of Eclipse whole foods. “Eclipse Wholefoods” is the Certified Organic food brand of Health Eclipse.
   
-  <img src="/Images/Icons/European Wardrobe - tech.jpg"></img>
+  <img src="/Images/Icons/European Wardrobe - tech.jpg" height="60"></img>
 
 - **European Wardrobe (Australia) | Simplexhub | Senior Software Engineer | Jun 2010 - Jun 2011**  
 
   European Wardrobe presents to you fashionable European brands from Italy, Denmark, Spain, France and the United Kingdom. European Wardrobe represents fashion and style direct from Europe.
 
-  <img src="/Images/Icons/European Wardrobe - tech.jpg"></img>
+  <img src="/Images/Icons/European Wardrobe - tech.jpg" height="60"></img>
 
 - **Student Tracker (Australia) | Simplexhub | Senior Software Engineer | Mar 2010 - Dec 2010**  
 
