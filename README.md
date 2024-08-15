@@ -158,10 +158,9 @@ https://www.youtube.com/watch?v=hoFdFJfKqpc
 
 - **European Wardrobe | Simplexhub | Senior Software Engineer**  
   *European Wardrobe, Australia | Jun 2010 - Jun 2011*
-  European Wardrobe presents to you fashionable European brands from Italy, Denmark, Spain, France and the United Kingdom. European Wardrobe represents fashion and style direct from
-Europe.
-  [European Wardrobe](http://europeanwardrobe.com.au)  
-  - ASP.NET Framework 3.5, VS 2008, MSSQL Server 2005, NopCommerce 1.6, E-Commerce.
+  European Wardrobe presents to you fashionable European brands from Italy, Denmark, Spain, France and the United Kingdom. European Wardrobe represents fashion and style direct from Europe.
+
+  <img src="/Images/Icons/European Wardrobe - tech.jpg"></img>
 
 - **Student Tracker | Simplexhub | Senior Software Engineer**  
   *BLAST Web Consulting, Australia | Mar 2010 - Dec 2010*
@@ -174,15 +173,16 @@ Europe.
   An approach to encourage Student for good deed by awarding them and discuss about it. We develop client concept into series of image and started development. Client drop the idea after MS-2.
   - ASP.NET MVC, DOT NET Framework 3.5, VS 2008, MSSQL Server 2005, DI, Social Media, Award Gallery.
 
-- **Brunetti | Simplexhub | Software Engineer**  
+- **[Brunetti](http://www.brunetti.com.au/) | Simplexhub | Software Engineer**  
   *Brunetti Cafe, Australia | Jan 2010 - Dec 2012*
   Brunetti is one of the most iconic places to visit in Carlton. I have been maintaining and modifying this application as client requirement from the beginning of 2010. We have rich admin section, competition module and reminder service. We design and send out competition, give away movie tickets email.
-  [Brunetti](http://www.brunetti.com.au/)  
-  - ASP.NET Framework 2.0, VS 2008, MSSQL Server 2005, Subsonic 2.2 ORM, Product Gallery, E-Commerce.
+   
+  <img src="/Images/Icons/Bruniti tech.jpg"></img>
 
 - **InterPersonality | Simplexhub | Software Engineer**  
   *InterPersonality, Australia | Jun 2009 - Nov 2009*
   InterPersonality is about Psychological-Type in particular, making Psyche-type readily available to the masses thus providing a platform to recognize the diverse range of intelligences each of us possesses.
+
   <img src="/Images/Icons/IP-tech.jpg"></img>
 
 
