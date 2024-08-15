@@ -125,6 +125,8 @@ With 12+ years of experience, I can channel a situation into a solution. As an a
   - Exposed services based on requesting users’ needs.
   - Integrated web services from Navision server and exposed dynamically based on user requests.
 
+    <img src="/Images/Icons/WCFGK.png"></img>
+
 - **Bordas Digital - Bordas Shop, Bordas Self-Service (Denmark) | Bording Vista | Senior Software Engineer | Jan 2013 – Oct 2013**  
 
   - Developed an eCommerce solution for newspapers, e-newspapers, magazines, and merchandise by consuming web services developed in Navision.
@@ -132,10 +134,11 @@ With 12+ years of experience, I can channel a situation into a solution. As an a
   - Developing mobile site for self-service with multi-language support.
   - Developing unit test framework and add test cases so that it can run smoothly.
 
+    <img src="/Images/Icons/BordasShop.png"></img>
+
 - **Rentokil (Australia) | Simplexhub | Senior Software Engineer | Apr 2012 – Nov 2012**  
 
   Online Store of Property Inspection Reports. Report customization with purchaser info. NAB payment gateway and eWAY payment gateway.
-  [Rentokil](http://www.pi.rentokil.com.au/)  
   <img src="/Images/Icons/Rentokill.png"></img>
 
 - **My Personal Database (MYPD) (Australia) | Simplexhub | Senior Software Engineer | Oct 2011 - Oct 2012**  
