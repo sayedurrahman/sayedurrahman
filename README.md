@@ -149,12 +149,14 @@ https://www.youtube.com/watch?v=hoFdFJfKqpc
   *Tomkin Australia Pty Ltd, Australia | Apr 2011 - Oct 2011*
   Tomkin Australia has the most comprehensive and stylish range of cookware, kitchenware, tableware, barware, glassware and porcelain available in Australia for both domestic and commercial use. Tomkin Australia products are available for purchase at most major retailers, kitchenware stores, gift shops, hotel & restaurant wholesalers.
   [Tomkin](http://www.tomkin.com.au/)  
-  - ASP.NET MVC 2, VS 2010, MSSQL Server 2005, DI, JQuery, Pixel-perfect UI, Product Gallery.
+  
+  <img src="/Images/Icons/Tomkin _ Home - Copy.jpg"></img>
 
 - **Eclipse Whole Foods | Simplexhub | Senior Software Engineer**  
   *Eclipse Organics, Australia | Jan 2011 - May 2011*
   This is the ecommerce site of Eclipse whole foods. “Eclipse Wholefoods” is the Certified Organic food brand of Health Eclipse.
-  - ASP.NET Framework 4, VS 2010, MSSQL Server 2005, NopCommerce 1.9, E-Commerce.
+  
+  <img src="/Images/Icons/European Wardrobe - tech.jpg"></img>
 
 - **European Wardrobe | Simplexhub | Senior Software Engineer**  
   *European Wardrobe, Australia | Jun 2010 - Jun 2011*
@@ -166,12 +168,14 @@ https://www.youtube.com/watch?v=hoFdFJfKqpc
   *BLAST Web Consulting, Australia | Mar 2010 - Dec 2010*
   This application manages students, teachers, classes, tests and results of schools. Student report, class report export in pdf and excel format.
   [Introduction](http://vimeo.com/44184865) | [Demonstration](http://vimeo.com/33773447)  
-  - ASP.NET Framework 3.5, VS 2008, MSSQL Server 2005, DI, Subsonic 3 ORM, Student Management System.
+   
+  <img src="/Images/Icons/ST.png"></img>
 
 - **Australian Student Awards | Simplexhub | Software Engineer**  
   *Australian Student Awards, Australia | Dec 2009 - Jun 2010*
   An approach to encourage Student for good deed by awarding them and discuss about it. We develop client concept into series of image and started development. Client drop the idea after MS-2.
-  - ASP.NET MVC, DOT NET Framework 3.5, VS 2008, MSSQL Server 2005, DI, Social Media, Award Gallery.
+   
+  <img src="/Images/Icons/ASA.png"></img>
 
 - **[Brunetti](http://www.brunetti.com.au/) | Simplexhub | Software Engineer**  
   *Brunetti Cafe, Australia | Jan 2010 - Dec 2012*
