@@ -108,13 +108,16 @@ With 12+ years of experience, I can channel a situation into a solution. As an a
   *Bording Data A/S, Denmark | Jan 2015 – Dec 2015*  
   - Developed services to download and parse address data from various sources (e.g., DAWA, PostDenmark, Salt).
   - Developed a central address database with auto-update functionality.
+  - Window custom control.
 
 - **Bordas Digital - SoundEx | Boarding Vista | Senior Software Engineer**  
-  *Bording Data A/S, Denmark | July 2014 – Aug 2014*  
+  *Bording Data A/S, Denmark | July 2014 – Aug 2014*
+  Multilingual phonetic search.
   - Created a multilingual phonetic search class library.
 
 - **Bordas Digital – NavDoc | Boarding Vista | Senior Software Engineer**  
-  *Bording Data A/S, Denmark | May 2014 – July 2014*  
+  *Bording Data A/S, Denmark | May 2014 – July 2014*
+  Import object from navision server. Parse NavObject and find object without documentation. Display navision object documentation in HTML.
   - Developed a tool to import objects from Navision server, parse NavObject, identify undocumented objects, and display documentation in HTML.
 
 - **Bordas Digital - WCF Gatekeeper | Boarding Vista | Senior Software Engineer**  
@@ -126,47 +129,60 @@ With 12+ years of experience, I can channel a situation into a solution. As an a
   *Bording Data A/S, Denmark | Jan 2013 – Oct 2013*  
   - Developed an eCommerce solution for newspapers, e-newspapers, magazines, and merchandise by consuming web services developed in Navision.
   - Developed self-service solutions for subscriptions with multi-language support.
+  - Developing mobile site for self-service with multi-language support.
+  - Developing unit test framework and add test cases so that it can run smoothly.
 
 - **Rentokil | Simplexhub | Senior Software Engineer**  
-  *Rentokil Initial Pty Ltd, Australia | Apr 2012 – Nov 2012*  
+  *Rentokil Initial Pty Ltd, Australia | Apr 2012 – Nov 2012*
+  Online Store of Property Inspection Reports. Report customization with purchaser info. NAB payment gateway and eWAY payment gateway.
   [Rentokil](http://www.pi.rentokil.com.au/)  
   - ASP.NET MVC 3, VS 2010, MSSQL Server 2005, NopCommerce 2.50, E-Commerce, Payment Gateway.
 
 - **My Personal Database (MYPD) | Simplexhub | Senior Software Engineer**  
-  *BLAST Web Consulting, Australia | Oct 2011 - Oct 2012*  
+  *BLAST Web Consulting, Australia | Oct 2011 - Oct 2012*
+  Critical Information Service, ICE Information Service. MYPD.com is the world’s first critical information register.
+https://www.youtube.com/watch?v=hoFdFJfKqpc
   [MYPD Demo](https://www.youtube.com/watch?v=hoFdFJfKqpc)  
   - ASP.NET MVC, VS 2010, MSSQL Server 2005, DI, Critical Information Service, ICE Information Service.
 
 - **Tomkin | Simplexhub | Senior Software Engineer**  
-  *Tomkin Australia Pty Ltd, Australia | Apr 2011 - Oct 2011*  
+  *Tomkin Australia Pty Ltd, Australia | Apr 2011 - Oct 2011*
+  Tomkin Australia has the most comprehensive and stylish range of cookware, kitchenware, tableware, barware, glassware and porcelain available in Australia for both domestic and commercial use. Tomkin Australia products are available for purchase at most major retailers, kitchenware stores, gift shops, hotel & restaurant wholesalers.
   [Tomkin](http://www.tomkin.com.au/)  
   - ASP.NET MVC 2, VS 2010, MSSQL Server 2005, DI, JQuery, Pixel-perfect UI, Product Gallery.
 
 - **Eclipse Whole Foods | Simplexhub | Senior Software Engineer**  
-  *Eclipse Organics, Australia | Jan 2011 - May 2011*  
+  *Eclipse Organics, Australia | Jan 2011 - May 2011*
+  This is the ecommerce site of Eclipse whole foods. “Eclipse Wholefoods” is the Certified Organic food brand of Health Eclipse.
   - ASP.NET Framework 4, VS 2010, MSSQL Server 2005, NopCommerce 1.9, E-Commerce.
 
 - **European Wardrobe | Simplexhub | Senior Software Engineer**  
-  *European Wardrobe, Australia | Jun 2010 - Jun 2011*  
+  *European Wardrobe, Australia | Jun 2010 - Jun 2011*
+  European Wardrobe presents to you fashionable European brands from Italy, Denmark, Spain, France and the United Kingdom. European Wardrobe represents fashion and style direct from
+Europe.
   [European Wardrobe](http://europeanwardrobe.com.au)  
   - ASP.NET Framework 3.5, VS 2008, MSSQL Server 2005, NopCommerce 1.6, E-Commerce.
 
 - **Student Tracker | Simplexhub | Senior Software Engineer**  
-  *BLAST Web Consulting, Australia | Mar 2010 - Dec 2010*  
+  *BLAST Web Consulting, Australia | Mar 2010 - Dec 2010*
+  This application manages students, teachers, classes, tests and results of schools. Student report, class report export in pdf and excel format.
   [Introduction](http://vimeo.com/44184865) | [Demonstration](http://vimeo.com/33773447)  
   - ASP.NET Framework 3.5, VS 2008, MSSQL Server 2005, DI, Subsonic 3 ORM, Student Management System.
 
 - **Australian Student Awards | Simplexhub | Software Engineer**  
-  *Australian Student Awards, Australia | Dec 2009 - Jun 2010*  
+  *Australian Student Awards, Australia | Dec 2009 - Jun 2010*
+  An approach to encourage Student for good deed by awarding them and discuss about it. We develop client concept into series of image and started development. Client drop the idea after MS-2.
   - ASP.NET MVC, DOT NET Framework 3.5, VS 2008, MSSQL Server 2005, DI, Social Media, Award Gallery.
 
 - **Brunetti | Simplexhub | Software Engineer**  
-  *Brunetti Cafe, Australia | Jan 2010 - Dec 2012*  
+  *Brunetti Cafe, Australia | Jan 2010 - Dec 2012*
+  Brunetti is one of the most iconic places to visit in Carlton. I have been maintaining and modifying this application as client requirement from the beginning of 2010. We have rich admin section, competition module and reminder service. We design and send out competition, give away movie tickets email.
   [Brunetti](http://www.brunetti.com.au/)  
   - ASP.NET Framework 2.0, VS 2008, MSSQL Server 2005, Subsonic 2.2 ORM, Product Gallery, E-Commerce.
 
 - **InterPersonality | Simplexhub | Software Engineer**  
-  *InterPersonality, Australia | Jun 2009 - Nov 2009*  
+  *InterPersonality, Australia | Jun 2009 - Nov 2009*
+  InterPersonality is about Psychological-Type in particular, making Psyche-type readily available to the masses thus providing a platform to recognize the diverse range of intelligences each of us possesses.
   - ASP.NET Framework 3.5, VS 2008, MSSQL 2005, Sitefinity CMS, Subsonic 2.2 ORM, Product Gallery.
 
 
