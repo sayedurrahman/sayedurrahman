@@ -145,10 +145,9 @@ https://www.youtube.com/watch?v=hoFdFJfKqpc
   [MYPD Demo](https://www.youtube.com/watch?v=hoFdFJfKqpc)  
   - ASP.NET MVC, VS 2010, MSSQL Server 2005, DI, Critical Information Service, ICE Information Service.
 
-- **Tomkin (Australia) | Simplexhub | Senior Software Engineer | Apr 2011 - Oct 2011**  
+- **[Tomkin](http://www.tomkin.com.au/) (Australia) | Simplexhub | Senior Software Engineer | Apr 2011 - Oct 2011**  
 
   Tomkin Australia has the most comprehensive and stylish range of cookware, kitchenware, tableware, barware, glassware and porcelain available in Australia for both domestic and commercial use. Tomkin Australia products are available for purchase at most major retailers, kitchenware stores, gift shops, hotel & restaurant wholesalers.
-  [Tomkin](http://www.tomkin.com.au/)  
   
   <img src="/Images/Icons/Tomkin _ Home - Copy.jpg"></img>
 
@@ -167,7 +166,7 @@ https://www.youtube.com/watch?v=hoFdFJfKqpc
 - **Student Tracker (Australia) | Simplexhub | Senior Software Engineer | Mar 2010 - Dec 2010**  
 
   This application manages students, teachers, classes, tests and results of schools. Student report, class report export in pdf and excel format.
-  [Introduction](http://vimeo.com/44184865) | [Demonstration](http://vimeo.com/33773447)  
+  Video: [Introduction](http://vimeo.com/44184865) | [Demonstration](http://vimeo.com/33773447)  
    
   <img src="/Images/Icons/ST.png"></img>
 
