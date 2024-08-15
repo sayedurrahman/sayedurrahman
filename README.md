@@ -183,7 +183,7 @@ Europe.
 - **InterPersonality | Simplexhub | Software Engineer**  
   *InterPersonality, Australia | Jun 2009 - Nov 2009*
   InterPersonality is about Psychological-Type in particular, making Psyche-type readily available to the masses thus providing a platform to recognize the diverse range of intelligences each of us possesses.
-  (Images/Icons/IP-tech.jpg)
+  (/Images/Icons/IP-tech.jpg)
 
 
 <!--
