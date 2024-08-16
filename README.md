@@ -4,8 +4,6 @@
 
 [LinkedIn](https://linkedin.com/in/sayedur-rahman) | [GitHub](https://github.com/sayedurrahman) | [LeetCode](https://leetcode.com/user1401LF/) | 📧 sayedur.rahmans@gmail.com | 💬 Skype: sayedur.rahman5 | 📱 (+88)01788594343
 
----
-
 ### Summary
 - With 12+ years of experience, I can channel a situation into a solution.
 - As an architect, I can design software to resolve real problems.
@@ -14,6 +12,9 @@
 - **My Positive, Can do attitude and Adaptability keep me moving forward**.
 
 ---
+--
+-
+#
 
 ### Skills
 - **Languages & Frameworks:** ASP.NET CORE, ASP.NET CORE Web API, ASP.NET MVC, C#, Python
@@ -28,9 +29,13 @@
 ### Experience
 
 - **Together Initiatives (P) Ltd. - Team Lead (Dot Net) - Jan 2023 - Mar 2024**  
-  *Absorblms.com*  
+  - I led the Dot Net team of Bangladesh. During this time I Conducted regular meetings with Canadian and Polish teams, assigned tasks to team members, PR review and team related tasks including development.
+  - We contribute to migrating from Knockout to React for the admin site of the LMS using React and Hooks.
+  - Developed backend web API in Dot Net and ensure functionality with unit tests.
 
-- **Misfit Technologies Ltd. - Senior Software Engineer - Jan 2020 - Jun 2020**  
+- **Misfit Technologies Ltd. - Senior Software Engineer - Jan 2020 - Jun 2020**
+  - Proffsmagasinet was migrating from Object-Oriented Programming (OOP) to Functional Programming. We helped them migrate the backend from VirtoCommerce (C#) to the Saturn framework (F#).
+  - Update the frontend using Fable.js(Javascript for F#)
 
 - **Nascenia - Principal Software Engineer - Mar 2016 - Dec 2019**
   - I successfully stabilized the backend server of "MCP Smyril Line" using ASP.NET Core and SignalR. The server, which was previously unstable and full of bugs, was 100% functional and error-free. For my proactive efforts, I was awarded the Proactive badge.🏆
