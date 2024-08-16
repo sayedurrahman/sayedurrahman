@@ -1,15 +1,17 @@
 # Sayedur Rahman
 
-**20+ Successful Projects | 12+ Years Experience | 4 Years Tech-Lead (Dot Net) | Software Architect | Active Developer | ITEE Full Passer | Code Warrior Champion**
+**20+ Successful Projects | 12+ Years Experience | 4 Years Tech-Lead (Dot Net) | Software Architect | Active Developer | B-Tech | ITEE Full Passer | Code Warrior Champion**
 
-[LinkedIn](https://linkedin.com/in/sayedur-rahman) | [GitHub](https://github.com/sayedurrahman) | [LeetCode](https://leetcode.com/user1401LF/) | 📧 sayedur.rahmans@gmail.com | 💬 Telegram: sayedur.rahman5 | 📞 (+88)01788594343
+[LinkedIn](https://linkedin.com/in/sayedur-rahman) | [GitHub](https://github.com/sayedurrahman) | [LeetCode](https://leetcode.com/user1401LF/) | 📧 sayedur.rahmans@gmail.com | 💬 Skype: sayedur.rahman5 | 📱 (+88)01788594343
 
 ---
-![Skype Logo](https://secure.skypeassets.com/content/dam/scom/legal/brand-guidelines/skype-icon.svg)
-
 
 ### Summary
-With 12+ years of experience, I can channel a situation into a solution. As an architect, I can design software to resolve real problems. As a tech lead, I can guide a team through both good and challenging times. As a software engineer, I can develop top-notch software and deliver exceptional results. My "Positive", "Can do" attitude and adaptability keep me moving forward.
+- With 12+ years of experience, I can channel a situation into a solution.
+- As an architect, I can design software to resolve real problems.
+- As a tech lead, I can guide a team through both good and challenging times.
+- As a software engineer, I can develop top-notch software and deliver exceptional results.
+- **My Positive, Can do attitude and Adaptability keep me moving forward**.
 
 ---
 
@@ -25,21 +27,21 @@ With 12+ years of experience, I can channel a situation into a solution. As an a
 
 ### Experience
 
-- **Together Initiatives (P) Ltd. - Team Lead (Dot Net)**  
+- **Together Initiatives (P) Ltd. - Team Lead (Dot Net) - Jan 2023 - Mar 2024**  
   *Absorblms.com*  
-  **Jan 2023 - Mar 2024**
 
-- **Misfit Technologies Ltd. - Senior Software Engineer**  
-  **Jan 2020 - Jun 2020**
+- **Misfit Technologies Ltd. - Senior Software Engineer - Jan 2020 - Jun 2020**  
 
-- **Nascenia - Principal Software Engineer**  
-  **Mar 2016 - Dec 2019**
+- **Nascenia - Principal Software Engineer - Mar 2016 - Dec 2019**
+  - I successfully stabilized the backend server of "MCP Smyril Line" using ASP.NET Core and SignalR. The server, which was previously unstable and full of bugs, was 100% functional and error-free. For my proactive efforts, I was awarded the Proactive badge.🏆
+  - I led the ServiceHub project. Under my watch we develop the 'Proof of Concept', ServiceHub-Cloud, ServiceHub-Backend, and ServiceHub-Frontend.
+    - ServiceHub-Cloud: Application to manage ship information on the web.
+    - ServiceHub-Backend: Auto-sync entertainment content between cloud server and ship server.
+    - ServiceHub-Frontend: Unified application for all cruises.
 
-- **Bording Vista (now Fiftytwo Digital Ltd.) - Senior Software Engineer**  
-  **Jan 2013 - Mar 2016**
+- **Bording Vista (now Fiftytwo Digital Ltd.) - Senior Software Engineer - Jan 2013 - Mar 2016**  
 
-- **Simplexhub Ltd. - Senior Software Engineer**  
-  **Jun 2009 - Dec 2012**
+- **Simplexhub Ltd. - Senior Software Engineer - Jun 2009 - Dec 2012**  
 
 ---
 
@@ -139,6 +141,7 @@ With 12+ years of experience, I can channel a situation into a solution. As an a
 - **Rentokil (Australia) | Simplexhub | Senior Software Engineer | Apr 2012 – Nov 2012**  
 
   Online Store of Property Inspection Reports. Report customization with purchaser info. NAB payment gateway and eWAY payment gateway.
+  
   <img src="/Images/Icons/Rentokill.png"></img>
 
 - **My Personal Database (MYPD) (Australia) | Simplexhub | Senior Software Engineer | Oct 2011 - Oct 2012**  
@@ -191,6 +194,7 @@ With 12+ years of experience, I can channel a situation into a solution. As an a
   <img src="/Images/Icons/IP-tech.jpg"></img>
 
 <!--
+![Skype Logo](https://secure.skypeassets.com/content/dam/scom/legal/brand-guidelines/skype-icon.svg)
 **sayedurrahman/sayedurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
