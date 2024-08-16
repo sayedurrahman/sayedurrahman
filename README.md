@@ -11,9 +11,6 @@
 - As a software engineer, I can develop top-notch software and deliver exceptional results.
 - **My Positive, Can do attitude and Adaptability keep me moving forward**.
 
----
---
--
 #
 
 ### Skills
@@ -44,9 +41,11 @@
     - ServiceHub-Backend: Auto-sync entertainment content between cloud server and ship server.
     - ServiceHub-Frontend: Unified application for all cruises.
 
-- **Bording Vista (now Fiftytwo Digital Ltd.) - Senior Software Engineer - Jan 2013 - Mar 2016**  
+- **Bording Vista (now Fiftytwo Digital Ltd.) - Senior Software Engineer - Jan 2013 - Mar 2016**
+  - In Bording Vista, we develop high quality software by following high development standards. We follow agile methodology, daily scrum. We gather client’s requirement, design, coding, automated testing, test separate parts, integrating parts, testing the whole, developing test environment, deploying and maintaining the software so that we can meet Danish standard. That is the reason our slogan is **Value added off-shore services**
 
-- **Simplexhub Ltd. - Senior Software Engineer - Jun 2009 - Dec 2012**  
+- **Simplexhub Ltd. - Senior Software Engineer - Jun 2009 - Dec 2012**
+  - In Simplexhub, we develop software by adopting some disciplines. This involves gathering client’s requirement, compiling requirement list, designing architecture, design, coding, testing separate parts, integrating parts, testing the whole, developing test environment, deploying and maintaining the software. **Programming is only a small part of our job.**
 
 ---
 
@@ -60,19 +59,15 @@
 
 ---
 
-### Licenses & Certifications
-- **ITEE, Full Passer of Fundamental IT Engineer (FE) Exam, October 2018**  
-  IPA: Information-Technology Promotion Agency, Japan  
-  Nationally Ranked #18  
-  ITEE stands for Information Technology Engineers Examination. ITEE is the national level IT Engineers Examination governed by IPA, Japan. It is one of the largest scale national qualification examinations in Japan, with approximately 600,000 applicants each year. The examination is conducted twice a year, generally in April and October.  
-  [Result](http://bditec.gov.bd/wp-content/uploads/2018/01/ITEE-Exam-Result-Oct-2018-Exam.pdf) (FE01-0051)
+### Licenses, Certifications, Honors & Awards
+- **ITEE, Full Passer of Fundamental IT Engineer (FE) Exam, October 2018**
+  - Governed by IPA: Information-Technology Promotion Agency, Japan <img src="/Images/Icons/japan.png"></img>
+  - National Ranked #18 🏆  [Result](http://bditec.gov.bd/wp-content/uploads/2018/01/ITEE-Exam-Result-Oct-2018-Exam.pdf) (FE01-0051)
+  - ITEE stands for Information Technology Engineers Examination. ITEE is the national level IT Engineers Examination governed by IPA, Japan. It is one of the largest scale national qualification examinations in Japan, with approximately 600,000 applicants each year. The examination is conducted twice a year, generally in April and October.  
 
 - **The Institution of Engineers, Bangladesh**  
   Membership No: M-40729
-
----
-
-### Honors & Awards
+ 
 - **Champion of Code Warriors' Challenge in Dot Net Professional Platform**  
   Code Warriors' Challenge organized by “Basis”, co-organized by “Ministry of Science and ICT” and “Access to Information Program” held on February 4, 2011, at Media Bazar (Ground Floor), Bangabandhu International Conference Center (BICC).
 
