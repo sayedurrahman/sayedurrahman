@@ -50,29 +50,24 @@
 ---
 
 ### Education
-- **West Bengal University of Technology, Kolkata**  
-  Bachelor of Technology (BTech), CSE  
-  **2004 - 2008**
+- **West Bengal University of Technology, Kolkata, India** - 2004 - 2008
+  - Bachelor of Technology (BTech), CSE  
 
-- **Basis OOP Training**  
-  **2009**
+- **Basis OOP Training** - 2009
 
 ---
 
 ### Licenses, Certifications, Honors & Awards
 - **ITEE, Full Passer of Fundamental IT Engineer (FE) Exam, October 2018**
-  - Governed by IPA: Information-Technology Promotion Agency, Japan <img src="/Images/Icons/japan.png"></img>
   - National Ranked #18 🏆  [Result](http://bditec.gov.bd/wp-content/uploads/2018/01/ITEE-Exam-Result-Oct-2018-Exam.pdf) (FE01-0051)
-  - ITEE stands for Information Technology Engineers Examination. ITEE is the national level IT Engineers Examination governed by IPA, Japan. It is one of the largest scale national qualification examinations in Japan, with approximately 600,000 applicants each year. The examination is conducted twice a year, generally in April and October.  
+  - <i>ITEE stands for Information Technology Engineers Examination. ITEE is the national level IT Engineers Examination **governed by IPA, Japan**. It is one of the largest scale national qualification examinations in Japan, with approximately 600,000 applicants each year. ITEE examination is conducted on the same date and time with the same set of questions among all the ITPEC (Information Technology Professionals Examination Council) member countries.The examination is conducted twice a year, generally in April and October.</i>
 
-- **The Institution of Engineers, Bangladesh**  
-  Membership No: M-40729
- 
+- **The Institution of Engineers, Bangladesh**  Membership No: M-40729
+  
 - **Champion of Code Warriors' Challenge in Dot Net Professional Platform**  
-  Code Warriors' Challenge organized by “Basis”, co-organized by “Ministry of Science and ICT” and “Access to Information Program” held on February 4, 2011, at Media Bazar (Ground Floor), Bangabandhu International Conference Center (BICC).
+  <i>Code Warriors' Challenge organized by “Basis”, co-organized by “Ministry of Science and ICT” and “Access to Information Program” held on February 4, 2011 at Media Bazar (Ground Floor), Bangabandhu International Conference Center (BICC).</i>
 
-- **Diploma in Loyalty - Bording Vista**  
-  **Jan 2013**
+- **Diploma in Loyalty** - Bording Vista - Jan 2013
 
 ---
 
