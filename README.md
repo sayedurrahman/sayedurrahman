@@ -2,7 +2,7 @@
 
 **20+ Successful Projects | 12+ Years Experience | 4 Years Tech-Lead (Dot Net) | Software Architect | Active Developer | B-Tech | ITEE Full Passer | Code Warrior Champion**
 
-[LinkedIn](https://linkedin.com/in/sayedur-rahman) | [GitHub](https://github.com/sayedurrahman) | [LeetCode](https://leetcode.com/user1401LF/) | 📧 sayedur.rahmans@gmail.com | 💬 Skype: sayedur.rahman5 | 📱 (+88)01788594343
+[LinkedIn](https://linkedin.com/in/sayedur-rahman) | [GitHub](https://github.com/sayedurrahman) | [LeetCode](https://leetcode.com/user1401LF/) | 📧 sayedur.rahmans@gmail.com | 📱 (+88)01788594343
 
 ### Summary
 - With 12+ years of experience, I can channel a situation into a solution.
@@ -30,11 +30,7 @@
   - We contribute to migrating from Knockout to React for the admin site of the LMS using React and Hooks.
   - Developed backend web API in Dot Net and ensure functionality with unit tests.
 
-- **Misfit Technologies Ltd. - Senior Software Engineer - Jan 2020 - Jun 2020**
-  - Proffsmagasinet was migrating from Object-Oriented Programming (OOP) to Functional Programming. We helped them migrate the backend from VirtoCommerce (C#) to the Saturn framework (F#).
-  - Update the frontend using Fable.js(Javascript for F#)
-
-- **Nascenia - Principal Software Engineer - Mar 2016 - Dec 2019**
+- **Nascenia - Principal Software Engineer - Mar 2016 - Jun 2020**
   - I successfully stabilized the backend server of "MCP Smyril Line" using ASP.NET Core and SignalR. The server, which was previously unstable and full of bugs, was 100% functional and error-free. For my proactive efforts, I was awarded the Proactive badge.🏆
   - I led the ServiceHub project. Under my watch we develop the 'Proof of Concept', ServiceHub-Cloud, ServiceHub-Backend, and ServiceHub-Frontend.
     - ServiceHub-Cloud: Application to manage ship information on the web.
@@ -81,7 +77,7 @@
   - Developed backend web API in Dot Net.
   - Ensured functionality with unit tests.
 
-- **Service Hub (Telenor Maritime, Norway) | Nascenia | System Architect, Principal Software Engineer | Nov 2018 - Dec 2019**  
+- **Service Hub (Telenor Maritime, Norway) | Nascenia | System Architect, Principal Software Engineer | Nov 2018 - Jun 2020**  
   *Telenor Maritime AS, Gture, Norway*  
   ServiceHub is a web-based entertainment portal (Destination, News, Audio Book, Video) for luxury cruise ships, only available inside the ships. Zero-tech admin can manage hundreds of ships from a cloud application. Auto-sync entertainment content between cloud server and ship server.  
   - Led the ‘Proof of Concept’. 
@@ -89,11 +85,6 @@
   - ServiceHub-Cloud: Application to manage ship information on the web.
   - ServiceHub-Backend: Auto-sync entertainment content between cloud server and ship server.
   - ServiceHub-Frontend: Unified application for all cruises.
-
-- **Proffsmagasinet (Sweden) | Misfit Technologies Ltd | Senior Software Engineer, Team Lead | Jan 2020 - Jun 2020**
-
-  - Backend: Migrated from VirtoCommerce (C#) to Saturn framework (F#).
-  - Frontend: Developed frontend with Fable.js.
 
 - **MCP Smyril Line (Norway) | Nascenia | System Architect, Principal Software Engineer | Sep 2016 – Oct 2018**  
 
