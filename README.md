@@ -30,7 +30,7 @@
   - We contribute to migrating from Knockout to React for the admin site of the LMS using React and Hooks.
   - Developed backend web API in Dot Net and ensure functionality with unit tests.
 
-- **Nascenia - Principal Software Engineer - Mar 2016 - Jun 2020**
+- **Nascenia - Principal Software Engineer - Mar 2016 - Dec 2022**
   - I successfully stabilized the backend server of "MCP Smyril Line" using ASP.NET Core and SignalR. The server, which was previously unstable and full of bugs, was 100% functional and error-free. For my proactive efforts, I was awarded the Proactive badge.🏆
   - I led the ServiceHub project. Under my watch we develop the 'Proof of Concept', ServiceHub-Cloud, ServiceHub-Backend, and ServiceHub-Frontend.
     - ServiceHub-Cloud: Application to manage ship information on the web.
