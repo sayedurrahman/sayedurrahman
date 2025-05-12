@@ -77,7 +77,7 @@
   - Developed backend web API in Dot Net.
   - Ensured functionality with unit tests.
 
-- **Service Hub (Telenor Maritime, Norway) | Nascenia | System Architect, Principal Software Engineer | Nov 2018 - Jun 2020**  
+- **Service Hub (Telenor Maritime, Norway) | Nascenia | System Architect, Principal Software Engineer | Nov 2018 - Jun 2022**  
   *Telenor Maritime AS, Gture, Norway*  
   ServiceHub is a web-based entertainment portal (Destination, News, Audio Book, Video) for luxury cruise ships, only available inside the ships. Zero-tech admin can manage hundreds of ships from a cloud application. Auto-sync entertainment content between cloud server and ship server.  
   - Led the ‘Proof of Concept’. 
